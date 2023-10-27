@@ -1,0 +1,16 @@
+h1 {
+    color: white;
+    background-color: yellowgreen;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.recipe-list {
+    font-size: 30px;
+}
+
+.recipe-link {
+    color: aqua;
+}
